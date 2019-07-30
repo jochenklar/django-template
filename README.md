@@ -1,4 +1,4 @@
-# django-project
+# django-template
 
 An empty django project to get things started. Doesn't even need cookiecutter!
 
