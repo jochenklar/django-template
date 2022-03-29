@@ -1,5 +1,6 @@
 Django
-
 django-extensions
-
-psycopg2-binary
+django-settings-export
+django-debug-toolbar
+dj-database-url
+python-dotenv

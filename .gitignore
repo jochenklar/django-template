@@ -1,5 +1,3 @@
-config/settings/local.py
-
 __pycache__
 *.pyc
 *~
@@ -10,9 +8,8 @@ __pycache__
 static_root
 media_root
 
-env
-env2
-env3
+/env
+/.env
 
 *.sqlite3
 
